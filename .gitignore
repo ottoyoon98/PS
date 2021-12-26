@@ -1,0 +1,10 @@
+.env
+.cbp
+.depend
+.layout
+.exe
+.a
+bin/
+obj/
+Debug/
+
