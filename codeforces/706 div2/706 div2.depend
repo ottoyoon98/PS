@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1615378437 source:c:\users\user\ottoyoon98\codeforces\706 div2\a.cpp
+	<iostream>
+	<string.h>
+
+1615381837 source:c:\users\user\ottoyoon98\codeforces\706 div2\b.cpp
+	<iostream>
+	<memory.h>
+	<map>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1616221604 source:c:\users\user\ottoyoon98\ps\2021 scf\3.c
+	<stdio.h>
+
+1616226105 source:c:\users\user\ottoyoon98\ps\2021 scf\4.cpp
+	<stdio.h>
+	<algorithm>
+

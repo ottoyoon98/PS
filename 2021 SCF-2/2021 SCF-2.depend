@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1616823663 source:c:\users\user\ottoyoon98\ps\2021 scf-2\1.cpp
+	<stdio.h>
+
+1616835492 source:c:\users\user\ottoyoon98\ps\2021 scf-2\2.cpp
+	<stdio.h>
+	<map>
+	<string>
+	<algorithm>
+
+1616831597 source:c:\users\user\ottoyoon98\ps\2021 scf-2\3.cpp
+	<stdio.h>
+

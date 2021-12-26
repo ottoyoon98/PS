@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1614190033 source:c:\users\user\ottoyoon98\baekjoon\npc 2021-1 중급\1076.cpp
+	<iostream>
+	<string>
+	<map>
+
+1614194241 source:c:\users\user\ottoyoon98\baekjoon\npc 2021-1 중급\1260.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+
+1614196165 source:c:\users\user\ottoyoon98\baekjoon\npc 2021-1 중급\9012.cpp
+	<iostream>
+	<string>
+
+1614198581 source:c:\users\user\ottoyoon98\baekjoon\npc 2021-1 중급\7785.cpp
+	<iostream>
+	<map>
+	<string>
+
+1614199646 source:c:\users\user\ottoyoon98\baekjoon\npc 2021-1 중급\2606.cpp
+	<iostream>
+
+1614200090 source:c:\users\user\ottoyoon98\baekjoon\npc 2021-1 중급\2839.cpp
+	<iostream>
+
+1614248584 source:c:\users\user\ottoyoon98\baekjoon\npc 2021-1 중급\2504.cpp
+	<iostream>
+	<string>
+
+1614254467 source:c:\users\user\ottoyoon98\baekjoon\npc 2021-1 중급\1406.cpp
+	<iostream>
+	<list>
+	<string>
+

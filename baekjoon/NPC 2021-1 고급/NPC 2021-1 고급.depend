@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1614354377 source:c:\users\user\ottoyoon98\baekjoon\npc 2021-1 고급\15900.cpp
+	<iostream>
+	<list>
+	<memory.h>
+
+1614495142 source:c:\users\user\ottoyoon98\baekjoon\npc 2021-1 고급\1593.cpp
+	<iostream>
+	<string>
+
+1614600778 source:c:\users\user\ottoyoon98\baekjoon\npc 2021-1 고급\13306.cpp
+	<iostream>
+	<vector>
+
+1614590093 source:c:\users\user\ottoyoon98\baekjoon\npc 2021-1 고급\16282.cpp
+	<iostream>
+
+1614599435 source:c:\users\user\ottoyoon98\baekjoon\npc 2021-1 고급\2518.cpp
+	<iostream>
+	<vector>
+	<memory.h>
+

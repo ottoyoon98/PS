@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1621598848 source:c:\users\user\ottoyoon98\ps\xor\main.cpp
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+

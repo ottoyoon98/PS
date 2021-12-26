@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1570101207 source:c:\users\user\baekjoon\1411.비슷한단어\1411\main.cpp
+	<stdio.h>
+	<string.h>
+
